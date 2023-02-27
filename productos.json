@@ -1,0 +1,574 @@
+[
+
+    {
+    "id": "Pla Amarillo 3N3",
+    "titulo": "Pla Amarillo 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/amarillo_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Amarillo fluo 3N3",
+    "titulo": "Pla Amarillo fluo 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/amarillo_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Azul 3N3",
+    "titulo": "Pla Azul 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/azul_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+        "id": "Pla Blanco 3N3",
+        "titulo": "Pla Blanco 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/blanco_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Bronce 3N3",
+    "titulo": "Pla Bronce 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/bronce_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Celeste 3N3",
+    "titulo": "Pla Celeste 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/celeste_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Cobre 3N3",
+    "titulo": "Pla Cobre 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/cobre_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Fucsia 3N3",
+    "titulo": "Pla Fucsia 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/fucsia_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {  
+    "id": "Pla Gris Acero 3N3",
+    "titulo": "Pla Gris Acero 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/grisacero_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Gris Plomo 3N3",
+    "titulo": "Pla Gris Plomo 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/grisplomo_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Habano 3N3",
+    "titulo": "Pla Habano 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/habano_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Hueso 3N3",
+    "titulo": "Pla Hueso 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/hueso_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Naranja 3N3",
+    "titulo": "Pla Naranja 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/naranja_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Negro 3N3",
+    "titulo": "Pla Negro 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/negro_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Rojo 3N3",
+    "titulo": "Pla Rojo 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/rojo_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Rosa 3N3",
+    "titulo": "Pla Rosa 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/rosa_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Rustico 3N3",
+    "titulo": "Pla Rustico 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/rustico_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Verde Fluo 3N3",
+    "titulo": "Pla Verde Fluo 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/verde_fluio.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Violeta 3N3",
+    "titulo": "Pla Violeta 3N3",
+    "imagen": "./imagenes/Fotos JPG Pla 3N3/violeta_ml.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA 3N3"
+        },
+    "precio": 2410
+    },
+
+{
+    "id": "Pla Amarillo GRILON3",
+    "titulo": "Pla Amarillo GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Grilon3/pla_amarillo.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Amarillo fluo GRILON3",
+    "titulo": "Pla Amarillo fluo GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Grilon3/pla_amarillo_fluo.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Azul GRILON3",
+    "titulo": "Pla Azul GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Grilon3/pla_amarillo.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+        "id": "Pla Blanco GRILON3",
+        "titulo": "Pla Blanco GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_blanco.jpg",
+    "categoria": {
+        "nombre": "PLA 3N3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Bordo GRILON3",
+    "titulo": "Pla Bordo GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_bordo.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Bronce GRILON3",
+    "titulo": "Pla Bronce GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_bronce.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Celeste GRILON3",
+    "titulo": "Pla Celeste GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_celeste.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Cobre GRILON3",
+    "titulo": "Pla Cobre GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Grilon3/pla_cobre.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 2410
+    },
+    {
+    "id": "Pla Fucsia GRILON3",
+    "titulo": "Pla Fucsia GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_fondo_fucsia.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {  
+    "id": "Pla Gris Espacial GRILON3",
+    "titulo": "Pla Gris Espacial GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_gris_espacial.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Gris Plata GRILON3",
+    "titulo": "Pla Gris Plata GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_gris_plata.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Naranja Fluo GRILON3",
+    "titulo": "Pla Naranja FLuo GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_naranja_fluo.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Natural GRILON3",
+    "titulo": "Pla Natural GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_natura.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Negro GRILON3",
+    "titulo": "Pla Negro GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_negro.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Piel 162 GRILON3",
+    "titulo": "Pla Piel 162 GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_piel162_ml.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Piel 720 GRILON3",
+    "titulo": "Pla Piel 720 GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_piel720_ml (2).jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Rojo GRILON3",
+    "titulo": "Pla Rojo GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_rojo.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Rosa GRILON3",
+    "titulo": "Pla Rosa GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_rosa.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Turquesa GRILON3",
+    "titulo": "Pla Turquesa GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_turquesa.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Verde GRILON3",
+    "titulo": "Pla Verde GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_verde.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Verde Fluo GRILON3",
+    "titulo": "Pla Verde Fluo GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_verde_fluo.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Verde Manzana GRILON3",
+    "titulo": "Pla Verde Manzana GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_verde_manzana.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Violeta GRILON3",
+    "titulo": "Pla Violeta GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla GRILON3/pla_violeta.jpg",
+    "categoria": {
+        "nombre": "PLA GRILON3",
+        "id": "PLA GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Acqua GRILON3",
+    "titulo": "Pla Boutique Acqua GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_acqua4.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Arena GRILON3",
+    "titulo": "Pla Boutique Arena GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_arena2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Carbon GRILON3",
+    "titulo": "Pla Boutique Carbon GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_carbon4.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Caribe GRILON3",
+    "titulo": "Pla Boutique Caribe GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_caribe3.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Chocolate GRILON3",
+    "titulo": "Pla Boutique Chocolate GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_chocolate2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Crema del Cielo GRILON3",
+    "titulo": "Pla Boutique Crema del Cielo GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_cremadelcielol2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Dulce de Leche GRILON3",
+    "titulo": "Pla Boutique Dulce de Leche GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_dulcedeleche2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Esmeralda GRILON3",
+    "titulo": "Pla Boutique Esmeralda GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_esmeralda2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Frutilla GRILON3",
+    "titulo": "Pla Boutique Frutilla GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_frutilla2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Lavanda GRILON3",
+    "titulo": "Pla Boutique Lavanda GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_lavanda2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Perla GRILON3",
+    "titulo": "Pla Boutique Perla GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_perla3.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Rubi GRILON3",
+    "titulo": "Pla Boutique Rubi GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_rubi2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Salmon GRILON3",
+    "titulo": "Pla Boutique Salmon GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_salmon2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Verde Aviador GRILON3",
+    "titulo": "Pla Boutique Verde Aviador GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_verdeaviador2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    },
+    {
+    "id": "Pla Boutique Verde Zafiro GRILON3",
+    "titulo": "Pla Boutique Verde Zafiro GRILON3",
+    "imagen": "./imagenes/Fotos JPG Pla Boutique Grilon3/pla_boutique_ml_zafiro2.jpg",
+    "categoria": {
+        "nombre": "PLA BOUTIQUE GRILON3",
+        "id": "PLA BOUTIQUE GRILON3"
+        },
+    "precio": 3250
+    }
+]
